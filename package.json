@@ -1,0 +1,9 @@
+{
+  "name": "js-algorithms-and-data-structures",
+  "version": "1.0.0",
+  "description": "From Bubble Sort to Dijkstra's Algorithm and dynamic programming...",
+  "main": "index.js",
+  "repository": "git@github.com:themaximehardy/js-algorithms-and-data-structures.git",
+  "author": "Max Hardy <max@hardy.work>",
+  "license": "MIT"
+}
